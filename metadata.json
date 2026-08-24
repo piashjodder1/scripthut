@@ -1,0 +1,6 @@
+{
+  "name": "ScriptHub - Premium Script Marketplace",
+  "description": "Discover, preview, and acquire ready-made websites, applications, and digital scripts with live demos and Telegram support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
